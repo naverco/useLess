@@ -5,7 +5,7 @@ Less snippet for MODx Evolution based on the lessphp ( http://leafo.net/lessphp 
 
 Call the less compiler directly in MODx:
 
-[!useLess? &lessString=`{{AllYourLessCode}}` &lessCompress=`yes` !]
+[!useLess? &lessString=&#96;{{AllYourLessCode}}&#96; &lessCompress=&#96;yes&#96; !]
 
 
 Installation
