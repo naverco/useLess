@@ -19,7 +19,7 @@ Installation
 
    Snippet name = useLess
 
-   Description = <b>0.5</b> use Less with MODx Evolution.
+   Description = &lt;b&gt;0.5&lt;/b&gt; use Less with MODx Evolution.
 
    Copy the content of snippet.useless.php in the snippet code area.
 
