@@ -1,5 +1,5 @@
-modx-UseLess
-============
+useLess
+=======
 
 Less snippet for MODx Evolution based on the lessphp ( http://leafo.net/lessphp ).
 
